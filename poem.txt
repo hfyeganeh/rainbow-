@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Black (added in feature branch)
+White (added in NewFeature branch)
 Green
 Yellow
 Red
