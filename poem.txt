@@ -9,5 +9,6 @@ White (added in NewFeature branch)
 Green
 Yellow
 Red
+Violet (Violet added in feature branch)
 
 These are the colors of the rainbow.
