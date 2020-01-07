@@ -4,6 +4,7 @@ Purple
 Pink
 Orange
 Blue
+Black (added in feature branch)
 Green
 Yellow
 Red
