@@ -10,5 +10,6 @@ Green
 Yellow
 Red
 Violet (Violet added in feature branch)
+Ghermez (hofa-sefr-yek changed this with red color)
 
 These are the colors of the rainbow.
